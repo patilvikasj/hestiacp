@@ -1,0 +1,2 @@
+ROLE='user'
+COMMANDS='v-add-database,v-delete-database,v-suspend-database,v-unsuspend-database,v-list-database,v-list-databases,v-change-database-password,v-change-database-user,v-change-database-owner,v-dump-database,v-import-database'

@@ -1,0 +1,2 @@
+ROLE='user'
+COMMANDS='v-add-web-domain,v-delete-web-domain,v-suspend-web-domain,v-unsuspend-web-domain,v-list-web-domain,v-list-web-domains,v-add-web-domain-alias,v-delete-web-domain-alias,v-add-web-domain-ssl,v-delete-web-domain-ssl,v-add-web-domain-ftp,v-delete-web-domain-ftp,v-change-web-domain-name,v-change-web-domain-ip,v-change-web-domain-tpl,v-change-web-domain-backend-tpl,v-change-web-domain-proxy-tpl'

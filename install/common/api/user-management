@@ -1,0 +1,2 @@
+ROLE='admin'
+COMMANDS='v-add-user,v-delete-user,v-suspend-user,v-unsuspend-user,v-list-user,v-list-users,v-change-user-password,v-change-user-package,v-change-user-shell,v-change-user-contact,v-change-user-language,v-change-user-name'
